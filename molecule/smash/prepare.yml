@@ -39,7 +39,3 @@
         mode: 0777
         recurse: true
       become: true
-
-    - name: add container hostname to control node /etc/hosts
-
-
